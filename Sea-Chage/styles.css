@@ -1,0 +1,25 @@
+body{
+    font-family: 'ProximaNova',sans-serif;
+}
+h1 {
+    color: #FB8F05;
+    font-size: 1.3rem;
+}
+.nav{
+    background-color: #03B3E7;
+    width: 45%;
+    padding: 1rem;
+
+}
+.nav__url {
+    text-decoration: none;
+    color: white;
+}
+.nav__url--activo,
+.nav__url:hover{
+    text-decoration: underline;
+
+
+    
+
+}
