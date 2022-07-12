@@ -1,0 +1,40 @@
+:root {
+  --dark-grey-blue: #38485b;
+    --principal-font: Cabin-Regular;
+    --blue: #005699;
+}
+
+.Hiring-and-Matricula {
+   font-family: Cabin-Regular;
+   font-style: italic;
+   color: var(--dark-grey-blue);
+   font-weight: bold;
+   font-size: 22px;
+   height: 27px;
+}
+.nav__url {
+    color: var(--blue);
+    font-size: 20px;
+    width: 466px;
+    height: 24px;
+    text-decoration: none;
+    width: 1440px;
+    height: 2294px;
+    font-family: Cabin-Regular;
+    font-weight: 540;
+}
+.nav__url:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+.nav__url--activo{
+    font-weight: bold;
+    color: var(--dark-grey-blue);
+    text-decoration: underline;
+}
+.nav__url__linea{
+    margin-right: 5px;
+    margin-left: 5px;
+    color: var(--dark-grey-blue);
+    font-weight: bold;
+}

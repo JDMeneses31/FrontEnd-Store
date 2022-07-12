@@ -1,0 +1,36 @@
+.Hiring-and-Matricula {
+    width: 266px;
+    height: 27px;
+    margin: 25px 382px 17px 73.5px;
+    font-family: Cabin;
+    font-size: 22px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: italic;
+    line-height: normal;
+    letter-spacing: normal;
+    color: var(--dark-grey-blue);
+  }
+
+  .Faculty-Staff-Po {
+    width: 466px;
+    height: 24px;
+    margin: 17px 182px 40px 73.5px;
+    font-family: Cabin;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #005699;
+  }
+  
+  .Faculty-Staff-Po .text-style-1 {
+    font-weight: bold;
+    color: var(--dark-grey-blue);
+  }
+  
+  .Faculty-Staff-Po .text-style-2 {
+    color: var(--dark-grey-blue);
+  }

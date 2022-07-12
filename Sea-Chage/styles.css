@@ -1,25 +1,44 @@
+
+
+
 body{
-    font-family: 'ProximaNova',sans-serif;
+    font-family: Cabin;
 }
 h1 {
-    color: #FB8F05;
-    font-size: 1.3rem;
+   
+    width: 266px;
+    height: 27px;
+    font-family: Cabin;
+    font-size: 22px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: italic;
+    line-height: normal;
+    letter-spacing: normal;
+    color: var(--dark-grey-blue);
 }
 .nav{
-    background-color: #03B3E7;
-    width: 45%;
-    padding: 1rem;
 
 }
 .nav__url {
     text-decoration: none;
-    color: white;
+    width: 466px;
+  height: 24px;
+  font-family: Cabin;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #005699;
 }
 .nav__url--activo,
 .nav__url:hover{
     text-decoration: underline;
-
+    font-weight: bold;
+  color: var(--dark-grey-blue);
+}
 
     
 
-}
